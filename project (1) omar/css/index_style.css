@@ -1,0 +1,52 @@
+
+
+
+
+
+
+.icon {
+    
+    box-sizing: border-box;
+    color: white;
+    padding: 2px;
+    margin-left: 15px;;
+    padding: 20px;
+    
+    
+}
+p{
+    margin: auto;
+}
+
+.first{
+    background-color: aqua;
+
+    
+}
+#second{
+    
+    height: 400px;
+    background-color: #444444;
+}
+#progressbar {
+  background-color: black;
+  border-radius: 13px;
+  /* (height of inner div) / 2 + padding */
+  padding: 1px;
+}
+
+#progressbar>div {
+  background-color: forestgreen;
+  width: 40%;
+  /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+
+
+
+
+
+    
+    
+    
+    
